@@ -1,0 +1,2 @@
+C:\Users\alexb\source\repos\YT Tutorials\Blackjack\x64\Debug\Blackjack.exe
+C:\Users\alexb\source\repos\C++ through game programming projects\Blackjack\x64\Debug\Blackjack.exe
