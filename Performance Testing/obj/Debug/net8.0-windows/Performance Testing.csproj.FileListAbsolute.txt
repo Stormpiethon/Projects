@@ -1,0 +1,16 @@
+C:\Users\alebritt\source\repos\Performance Testing\bin\Debug\net8.0-windows\Performance Testing.exe
+C:\Users\alebritt\source\repos\Performance Testing\bin\Debug\net8.0-windows\Performance Testing.deps.json
+C:\Users\alebritt\source\repos\Performance Testing\bin\Debug\net8.0-windows\Performance Testing.runtimeconfig.json
+C:\Users\alebritt\source\repos\Performance Testing\bin\Debug\net8.0-windows\Performance Testing.dll
+C:\Users\alebritt\source\repos\Performance Testing\bin\Debug\net8.0-windows\Performance Testing.pdb
+C:\Users\alebritt\source\repos\Performance Testing\obj\Debug\net8.0-windows\Performance_Testing.FormPerformanceTest.resources
+C:\Users\alebritt\source\repos\Performance Testing\obj\Debug\net8.0-windows\Performance Testing.csproj.GenerateResource.cache
+C:\Users\alebritt\source\repos\Performance Testing\obj\Debug\net8.0-windows\Performance Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alebritt\source\repos\Performance Testing\obj\Debug\net8.0-windows\Performance Testing.AssemblyInfoInputs.cache
+C:\Users\alebritt\source\repos\Performance Testing\obj\Debug\net8.0-windows\Performance Testing.AssemblyInfo.cs
+C:\Users\alebritt\source\repos\Performance Testing\obj\Debug\net8.0-windows\Performance Testing.csproj.CoreCompileInputs.cache
+C:\Users\alebritt\source\repos\Performance Testing\obj\Debug\net8.0-windows\Performance Testing.dll
+C:\Users\alebritt\source\repos\Performance Testing\obj\Debug\net8.0-windows\refint\Performance Testing.dll
+C:\Users\alebritt\source\repos\Performance Testing\obj\Debug\net8.0-windows\Performance Testing.pdb
+C:\Users\alebritt\source\repos\Performance Testing\obj\Debug\net8.0-windows\Performance Testing.genruntimeconfig.cache
+C:\Users\alebritt\source\repos\Performance Testing\obj\Debug\net8.0-windows\ref\Performance Testing.dll
